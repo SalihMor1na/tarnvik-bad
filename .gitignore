@@ -1,0 +1,14 @@
+# Editor-local
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dev scratch
+_review.html
+_sheet.html
+_s[0-9].html
+_final.html
